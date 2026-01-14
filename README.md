@@ -2,110 +2,109 @@
 
 ### Machine Learning | Deep Learning | Data Analytics | Computer Vision
 
-> 🌗 Optimized for **GitHub Dark & Light Themes**
+> Portfolio-style GitHub README — optimized for **Dark & Light GitHub Themes**
 
 ---
 
-## 👨‍💻 About Me
-I am a passionate **Machine Learning and Data Analytics professional** with experience in building intelligent systems using **Deep Learning, Medical Image Processing, and Data Visualization**. I focus on creating scalable, data-driven solutions with real-world impact.
+## About Me
+I am a passionate **Machine Learning and Data Analytics professional** with hands-on experience in **Deep Learning, Medical Image Processing, NLP, and Data Visualization**. I enjoy building intelligent, scalable systems and transforming data into actionable insights using modern AI frameworks.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)
 
 ### Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-red?logo=keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-AI-red?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
 
 ### Tools & Platforms
-![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-FF4B4B?logo=streamlit)
-![Git](https://img.shields.io/badge/Git-Version%20Control-black?logo=git)
+![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-FF4B4B?logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 Disease Detection (ML + Streamlit)
-🔗 **Repository:**  
-https://github.com/Muhammadmuraad/streamlet-app-for-disease-detection-using-support-vector-machine-and-K-nearest-neighbors
+### Disease Detection System (ML + Streamlit)
+**Repository:**  
+🔗 https://github.com/Muhammadmuraad/streamlet-app-for-disease-detection-using-support-vector-machine-and-K-nearest-neighbors
 
-**Description:**
-- Built a Streamlit-based ML web application for disease detection  
-- Implemented **Support Vector Machine (SVM)** and **K-Nearest Neighbors (KNN)**
-- End-to-end pipeline: data preprocessing → model training → prediction UI
+- Disease prediction using **Support Vector Machine (SVM)** and **K-Nearest Neighbors (KNN)**
+- End-to-end ML pipeline with preprocessing, training, and inference
+- Integrated into an interactive Streamlit application
 
-**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit
 
 ---
 
-### 🌾 Paddy Disease Detection Using CNN
-🔗 **Repository:**  
-https://github.com/Muhammadmuraad/paddy-disease-detection-using-CNN
+### Paddy Disease Detection Using CNN
+**Repository:**  
+🔗 https://github.com/Muhammadmuraad/paddy-disease-detection-using-CNN
 
-**Description:**
-- Deep learning project for **crop disease classification**
+- Deep learning-based crop disease classification
 - Implemented **Convolutional Neural Networks (CNN)**
 - Image preprocessing and augmentation for improved accuracy
 
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV
+**Technologies:** Python, TensorFlow, Keras, OpenCV
 
 ---
 
-### 💬 Text Emotion Recognition (NLP + Streamlit)
-🔗 **Repository:**  
-https://github.com/Muhammadmuraad/Text-emotion-recognition-app-streamlit-app-
+### Text Emotion Recognition Application (NLP)
+**Repository:**  
+🔗 https://github.com/Muhammadmuraad/Text-emotion-recognition-app-streamlit-app-
 
-**Description:**
-- NLP-based application to detect emotions from text
-- Integrated trained ML model into an interactive **Streamlit app**
-- Supports real-time emotion prediction
+- Emotion classification from textual data
+- NLP + Machine Learning pipeline
+- Deployed through a Streamlit-based interface
 
-**Tech Stack:** Python, NLP, Scikit-learn, Streamlit
+**Technologies:** Python, NLP, Scikit-learn, Streamlit
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmuraad&show_icons=true&theme=github_dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuraad&layout=compact&theme=github_dark)
 
 ---
 
-## 🎯 Areas of Interest
-- Artificial Intelligence & Deep Learning
-- Medical Imaging & Healthcare AI
-- Computer Vision
-- Natural Language Processing
-- Data Analytics & Visualization
+## Areas of Interest
+- Artificial Intelligence & Deep Learning  
+- Medical Image Processing  
+- Computer Vision  
+- Natural Language Processing  
+- Data Analytics & Visualization  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/muhammadmuraad  
-- **Facebook:** https://www.facebook.com/Thedarkcivilbeing?mibextid=ZbWKwL  
-- **Instagram:** @murad_khan_utmani  
-- **Twitter (X):** @murad_khan_utmani  
-- **TikTok:** @murad_khan_utmani  
-- **WeChat:** muradkhaan  
-- **WhatsApp:** +92 322 9800162  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Muraad-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmuraad)
+[![Facebook](https://img.shields.io/badge/Facebook-Thedarkcivilbeing-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Thedarkcivilbeing?mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/Instagram-murad__khan__utmani-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/murad_khan_utmani)
+[![Twitter](https://img.shields.io/badge/Twitter-@murad__khan__utmani-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/murad_khan_utmani)
+[![TikTok](https://img.shields.io/badge/TikTok-murad__khan__utmani-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@murad_khan_utmani)
+[![WeChat](https://img.shields.io/badge/WeChat-muradkhaan-07C160?logo=wechat&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20322%209800162-25D366?logo=whatsapp&logoColor=white)](#)
 
 ---
 
-## 📫 Contact & Collaboration
+## Contact & Collaboration
 I am open to:
-- Machine Learning & Deep Learning roles
-- Data Analytics projects
-- Research & medical imaging collaborations
-- Freelance & open-source contributions
+- Machine Learning & Deep Learning roles  
+- Data Analytics opportunities  
+- Research in Medical Imaging & NLP  
+- Freelance and open-source collaborations  
 
-⭐ *If you find my work useful, feel free to star my repositories and connect with me!*
+If my work aligns with your goals, feel free to connect.
+
+⭐ *Support my work by starring the repositories you find useful.*
